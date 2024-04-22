@@ -30,7 +30,3 @@ This project aims to replicate the user interface and design of the Netflix land
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to the project, feel free to fork the repository, make your changes, and submit a pull request. Please follow the existing coding style and conventions, and provide a clear description of the changes you've made.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the code for both commercial and non-commercial purposes. However, attribution is appreciated.
