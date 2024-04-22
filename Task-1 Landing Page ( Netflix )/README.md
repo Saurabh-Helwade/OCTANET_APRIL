@@ -4,7 +4,7 @@ Welcome to the Netflix Clone Landing Page repository! This project is a recreati
 
 ## Screenshots
 
-![Screenshot]("/screenshots/Screenshot.png")
+![Screenshot](screenshots/Screenshot.png)
 
 
 ## Description
