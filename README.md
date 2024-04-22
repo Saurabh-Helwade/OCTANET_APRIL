@@ -13,12 +13,9 @@
   - HTML
   - CSS
   - JavaScript
-- **Repository Files:**
-  - [NetflixClone/index.html](Task-1 Landing Page ( Netflix )/index.html)
-  - [NetflixClone/styles.css](Task-1 Landing Page ( Netflix )/src/styles.css)
 
 - **Screenshots :-**
-  - ![Screenshot](Task-1 Landing Page ( Netflix )/screenshots/Screenshot.png)
+  - ![Screenshot](https://github.com/Saurabh-Helwade/OCTANET_APRIL/blob/20207c8ea1e7a9003bd0afdaf4b5f1d630197df7/Task-1%20Landing%20Page%20(%20Netflix%20)/screenshots/Screenshot.png)
  
 ### Task 2: To-Do List Webpage
 - **Description:** Created a simple to-do list webpage.
@@ -31,13 +28,9 @@
   - HTML
   - CSS
   - JavaScript
-- **Repository Files:**
-  - [ToDoList/index.html](Task-2 To Do List/index.html)
-  - [ToDoList/styles.css]([ToDoList/styles.css](https://github.com/Saurabh-Helwade/OCTANET_APRIL/blob/1807e6de243315816277ca2f8c4607b8c6c4960d/Task-2%20To%20Do%20List/styles.css))
-  - [ToDoList/script.js](Task-2 To Do List/script.js)
 
  - **Screenshots :-**
-  - ![Screenshot](Task-2 To Do List/screenshots/Screenshot.png)
+  - ![Screenshot](https://github.com/Saurabh-Helwade/OCTANET_APRIL/blob/20207c8ea1e7a9003bd0afdaf4b5f1d630197df7/Task-2%20To%20Do%20List/screenshots/Screenshot.png)
 
 ---
 
