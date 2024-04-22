@@ -4,7 +4,7 @@ Welcome to the Netflix Clone Landing Page repository! This project is a recreati
 
 ## Screenshots
 
-![Screenshot 1]("D:\OneDrive\Pictures\Screenshots\Screenshot 2024-04-22 162027.png")
+![Screenshot]("https://github.com/Saurabh-Helwade/OCTANET_APRIL/blob/main/Task-1%20Landing%20Page%20(%20Netflix%20)/screenshots/Screenshot.png")
 
 
 ## Description
